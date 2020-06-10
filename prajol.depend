@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1500558419 source:c:\users\dell\desktop\prajol\main.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<fstream>
+	<string>
+	<time.h>
+
+1500647946 source:c:\users\dell\desktop\mamibukupr\main.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<fstream>
+	<string>
+	<time.h>
+
+1500731560 source:c:\users\dell\desktop\mamibukupr2\main.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<fstream>
+	<string>
+	<time.h>
+
